@@ -26,7 +26,7 @@ export function ReRender() {
 
   return (
     <div className="container">
-      <h1>React Memo com Emerson Brôga</h1>
+      <h1>React Memo na prática</h1>
       <div className="items">
         <ShowValue value={value} />
       </div>
